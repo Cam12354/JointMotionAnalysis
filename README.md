@@ -1,7 +1,9 @@
 This Github will server as a repository/tracker of current REU Work done by Cameron Jones. 
 
 heatmap_ait.py - serves as a voxel-based heatmap approach
-launch_ait.py - serves as a joint motion heatmap appraoch
+launch_ait.py - serves as a joint motion heatmap appraoch using Pyplot for intuitive side by side visualizations
+
+feel free to email me @ jcamero@umich.edu for any questions!
 
 
 
